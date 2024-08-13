@@ -1,1 +1,35 @@
 /* Write your CSS here! */
+
+body {
+    width: 100%;
+    max-width: 1024px;
+    margin: 5 auto;
+    background-color:  rgb(150, 219, 144);
+    font-size: 87%;
+}
+
+p {
+    color: white
+}
+
+#blockquote-color {
+    color: rgb(233, 32, 32)
+}
+
+nav {
+    color: rgb(233, 68, 79); 
+    
+}
+
+h1 {
+    color: rgb(232, 93, 51);
+}
+
+h2 {
+    color: rgb(234, 118, 79)
+}
+
+.center {
+    text-align: center;
+}
+
