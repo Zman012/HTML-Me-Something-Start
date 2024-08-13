@@ -5,7 +5,7 @@ body {
     max-width: 1024px;
     margin: 8px;
     display: block;
-    background-color:  rgb(150, 219, 144);
+    background-color:  rgb(165, 181, 163);
     font-size: 87%;
 }
 
@@ -16,6 +16,7 @@ p {
 .funParagraph {
     font-style:italic;
     font-size:medium;
+    color: green;
 }
 
 #blockquote-color {
@@ -28,7 +29,7 @@ nav {
 }
 
 #mainHeading {
-    color: rgb(226, 61, 11);
+    color: red;
     font-size: xxx-large;
     font-style: oblique;
 }
